@@ -3,13 +3,13 @@
  <p/>
 <h1 align="center"> Opa, meu nome é Victor! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-Atualmente  estou estudando Python, Machine Learning e Deep Learning 💻.
+Atualmente  estou estudando Python, Flask, API RESTful e Django 💻.
 
 <!-- TODO: Add last video link -->
 
 - :hammer_and_pick: Apredendo Funções Univariadas e Regressão Linear.
 - :computer: Linha de código mais usada `git commit -m "Initial Commit"`.
-- ⌨️ Procurando uma oportunidade na área de DEV :).
+- ⌨️ Procurando uma oportunidade na área de DEV Python :).
 
 🤝 &nbsp; Conecte-se comigo
 
