@@ -7,8 +7,6 @@
 
 - :hammer_and_pick: Apredendo Desenvolvimento ágil.
 - :computer: Linha de código mais usada `git commit -m "Initial Commit"`.
-- ⌨️ Procurando uma oportunidade na área de DEV WEB :).
-
 🤝 &nbsp; Conecte-se comigo
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorcamposr/)
