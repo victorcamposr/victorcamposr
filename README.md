@@ -5,10 +5,9 @@
 
 <!-- TODO: Add last video link -->
 
-- :hammer_and_pick: Apredendo Desenvolvimento ágil.
+- :hammer_and_pick: Apredendo Pandas e IA.
 - :computer: Linha de código mais usada `git commit -m "Initial Commit"`.
-- 
-🤝 &nbsp; Conecte-se comigo
+- 🤝 &nbsp; Conecte-se comigo
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorcamposr/)
 
