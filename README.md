@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,50:1f4fbf,100:3b82f6&height=190&section=header&text=Victor%20Campos&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20Backend%20%7C%20Go%2C%20Node.js%2C%20TypeScript%2C%20Rust%20%7C%20APIs%20REST%20%7C%20IA&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=560&lines=Game+server+and+client+in+C%2B%2B;REST+APIs+in+Go%2C+Node.js+and+Rust;AI+in+the+daily+workflow;Reverse+engineering+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=560&lines=Backend+Engineer+at+an+AI+company;REST+APIs+in+Go%2C+Node.js+and+Rust;C%2B%2B+game+server+and+client+on+the+side;Reverse+engineering+for+fun" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,12 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=victorcamposr&style=for-the-badge&color=1f4fbf&label=VISITORS" />
 </p>
 
-Hi, I'm Victor, a backend engineer. Right now I'm the **Lead Engineer on an MMORPG project**, owning the architecture, the C++ game server and client, the APIs around them and the infrastructure that keeps it all running in production. Off the clock, I'm into reverse engineering.
+Hi, I'm Victor. I work as a **backend engineer at an AI company**, building REST APIs and services with Go, Node.js and TypeScript.
+
+On the side, I'm the **lead engineer of an MMORPG project**: architecture, the C++ game server and client, and the infrastructure that runs it in production. I also enjoy reverse engineering.
 
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,nodejs,cpp,lua,js,py,php,cs,react,svelte,astro,vite,tauri,express,fastify,mysql,redis,prometheus,docker,linux,nginx,cloudflare,githubactions,git,powershell,bash,vscode&perline=14&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,nodejs,py,cpp,mysql,redis,docker,linux,nginx,prometheus&perline=12&theme=dark" />
 </p>
 
 ### Contributions
